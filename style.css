@@ -1,0 +1,64 @@
+* {
+  font-family: monospace;
+  position: relative;
+}
+
+body {
+  background-color: white;
+}
+
+#logo {
+  background-color: lightsalmon;
+  color: white;
+  height: 20px;
+  font-size: 15px;
+  padding-top: 3px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+#titulo {
+  left: 20px;
+  color: lightsalmon;
+  font-size: 32px;
+}
+
+#sub_titulo {
+  left: 20px;
+  bottom: 10px;
+  font-size: 25px;
+  color: black;
+}
+
+#linha_separa {
+  background-color: lightsalmon;
+  color: white;
+  height: 5px;
+}
+
+#bloco_principal {
+  color: black;
+  font-size: 20px;
+  left: 20px;
+}
+
+.button {
+  width: 300px;
+  height: 50px;
+  top: 5px;
+  left: 20px;
+  color: white;
+  font-size: 15px;
+  background-color: lightsalmon;
+  border-radius: 5px;
+  border-color: lightsalmon;
+}
+
+#logo_nc {
+  width: 100px;
+  text-align: center;
+  background-color: black;
+  top: 30px;
+  left: 20px;
+  color: white;
+}
