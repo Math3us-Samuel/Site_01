@@ -43,10 +43,11 @@ body {
 }
 
 .button {
-  width: 300px;
+  width: 310px;
   height: 50px;
   top: 5px;
   left: 20px;
+  bottom: 4px;
   color: white;
   font-size: 15px;
   background-color: lightsalmon;
@@ -57,6 +58,7 @@ body {
 #logo_nc {
   width: 100px;
   text-align: center;
+  border-radius: 8px;
   background-color: black;
   top: 30px;
   left: 20px;
